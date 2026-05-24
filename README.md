@@ -16,7 +16,7 @@ A curated, **bilingual** (中文 + English) collection of ML / LLM / multimodal 
 
 Each cheat sheet is a long-form Chinese tutorial with: formula derivations · from-scratch PyTorch code · 25 high-frequency interview questions (L1 essentials · L2 advanced · L3 top-tier lab).
 
-> 🌐 **Also in this repo** — [**ARIS-Homepage**](#-aris-homepage--fact-checked-academic-homepage-from-cv): turn your CV into a fact-checked academic homepage with the same single-file HTML workflow. [**Live demo at wanshuiyin.github.io →**](https://wanshuiyin.github.io/)
+> 🔥 **NEW** · 🌐 **Also in this repo** — [**ARIS-Homepage**](#-aris-homepage--fact-checked-academic-homepage-from-cv): turn your CV into a fact-checked academic homepage with the same single-file HTML workflow. [**🔥 Live demo at wanshuiyin.github.io →**](https://wanshuiyin.github.io/)
 
 <p align="center">
   <img src="assets/preview_strip.jpg" alt="ARIS-in-AI-Offer preview — Foundations + Interview Q&A + From-Scratch Code, three columns from a representative cheat sheet" width="100%">

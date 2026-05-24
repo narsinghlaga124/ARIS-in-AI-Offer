@@ -16,7 +16,7 @@
 
 每篇都是一份长文 + 公式 + 从零开始的 PyTorch 代码 + 25 高频面试题（L1 必会 · L2 进阶 · L3 顶级 lab）。
 
-> 🌐 **本仓库另一个 feature** —— [**ARIS-Homepage**](#-aris-homepage--fact-checked-学术主页生成器)：用同一套单文件 HTML workflow 把 CV 变成 fact-checked 学术主页。[**Live demo 在 wanshuiyin.github.io →**](https://wanshuiyin.github.io/)
+> 🔥 **新 feature** · 🌐 **本仓库另一个 feature** —— [**ARIS-Homepage**](#-aris-homepage--fact-checked-学术主页生成器)：用同一套单文件 HTML workflow 把 CV 变成 fact-checked 学术主页。[**🔥 Live demo 在 wanshuiyin.github.io →**](https://wanshuiyin.github.io/)
 
 <p align="center">
   <img src="assets/preview_strip.jpg" alt="ARIS-in-AI-Offer 预览 — 基础知识 + 面试题 + 实际代码，截自一篇代表性 cheat sheet" width="100%">
